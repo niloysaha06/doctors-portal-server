@@ -1,5 +1,5 @@
 node_modules
-# .env
+.env
 # doctors-portal-firebase-adminsdk.json
 # ${process.env.DB_USER}
 # ${process.env.DB_PASS}
